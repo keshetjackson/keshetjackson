@@ -24,6 +24,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,azure)](https://skillicons.dev)
 
-<h1>snake</h1>
+
 
 ![Snake animation](https://github.com/keshetjackson/keshetjackson/blob/output/github-contribution-grid-snake.svg)
