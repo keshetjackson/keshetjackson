@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <h1>Aspiring Junior software developer focuses on Back-End | Passionate about creating robust and scalable software solutions | Seeking opportunities to learn and grow</h1>
 
