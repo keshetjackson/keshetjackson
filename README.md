@@ -26,4 +26,4 @@
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/keshetjackson/keshetjackson/blob/output/github-contribution-grid-snake.svg)
