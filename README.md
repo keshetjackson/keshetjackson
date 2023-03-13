@@ -12,7 +12,7 @@
 <h1>BackEnd</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=azure,cs,dotnet,express,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,express,nodejs&theme=dark)](https://skillicons.dev)
 
 
 <h1>Data</h1>
