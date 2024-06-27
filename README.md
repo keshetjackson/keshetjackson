@@ -3,7 +3,7 @@
 <h1>Aspiring Junior full stack developer | Passionate about creating robust and scalable software solutions | Seeking opportunities to learn and grow</h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshetjackson&show_icons=true&theme=tokyonight) 
+
 <h1>Frontend</h1>
 
   
