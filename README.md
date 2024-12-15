@@ -4,7 +4,7 @@ Hi 👋 My name is keshet jackson
 Full Stack Developer | Passionate about creating robust and scalable software solutions | Seeking opportunities to learn and grow
 
 * ✉️  You can contact me at [keshetjackson@gmail.com](mailto:keshetjackson@gmail.com)
-* 🚀  I'm currently working on [Wizzo](http://www.wizzo.co.il/)
+* 🚀  I'm currently working on [digidigital](https://digidigital.org/)
 * 🤝  I'm open to collaborating on Interedsting side projects
 
 ### Skills
