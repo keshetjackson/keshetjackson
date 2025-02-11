@@ -5,7 +5,7 @@ Full Stack Developer | Passionate about creating robust and scalable software so
 
 * ✉️  You can contact me at [keshetjackson@gmail.com](mailto:keshetjackson@gmail.com)
 * 🚀  I'm currently working on [digidigital](https://digidigital.org/)
-* 🤝  I'm open to collaborating on Interedsting side projects
+* 🤝  I'm open to collaborating on Interesting side projects
 
 ### Skills
 
